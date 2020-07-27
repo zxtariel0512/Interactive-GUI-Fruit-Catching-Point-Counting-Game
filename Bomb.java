@@ -1,4 +1,3 @@
-package edu.nyu.cs.xz1991.assignment6Practice;
 
 import processing.core.PImage;
 import java.util.Random;
